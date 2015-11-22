@@ -1,0 +1,5 @@
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Dados\bin\Debug\Facisa.Si.Dotnet.Projeto.Dados.dll
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Dados\bin\Debug\Facisa.Si.Dotnet.Projeto.Dados.pdb
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Dados\obj\Debug\Facisa.Si.Dotnet.Projeto.Dados.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Dados\obj\Debug\Facisa.Si.Dotnet.Projeto.Dados.dll
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Dados\obj\Debug\Facisa.Si.Dotnet.Projeto.Dados.pdb

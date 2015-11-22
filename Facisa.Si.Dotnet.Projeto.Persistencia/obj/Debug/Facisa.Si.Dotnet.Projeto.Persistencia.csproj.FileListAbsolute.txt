@@ -1,0 +1,12 @@
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Persistencia\bin\Debug\Facisa.Si.Dotnet.Projeto.Persistencia.dll.config
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Persistencia\bin\Debug\Facisa.Si.Dotnet.Projeto.Persistencia.dll
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Persistencia\bin\Debug\Facisa.Si.Dotnet.Projeto.Persistencia.pdb
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Persistencia\bin\Debug\Facisa.Si.Dotnet.Projeto.Dados.dll
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Persistencia\bin\Debug\Facisa.Si.Dotnet.Projeto.Dados.pdb
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Persistencia\obj\Debug\Facisa.Si.Dotnet.Projeto.Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Persistencia\obj\Debug\Facisa.Si.Dotnet.Projeto.Persistencia.dll
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\Facisa.Si.Dotnet.Projeto\Facisa.Si.Dotnet.Projeto.Persistencia\obj\Debug\Facisa.Si.Dotnet.Projeto.Persistencia.pdb
